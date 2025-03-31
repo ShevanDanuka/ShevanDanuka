@@ -1,6 +1,3 @@
-# 💫 About Me:
-💻 About Me<br>👋 Hey there! I'm a passionate self-taught developer transitioning into the IT world from a background in security.<br><br>🔧 Skilled in PHP, front-end & back-end development, web design, and computer troubleshooting & assembly.<br><br>🏠 Looking for remote opportunities to build, create, and innovate!<br><br>🌍 Based in Paris, France 🇫🇷<br><br>🚀 Currently working on a fitness goal website with a sleek dark theme.<br><br>📚 Always learning & exploring new technologies to level up my skills!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/S____danuka___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shevandanuka@gmail.com) 
